@@ -1,7 +1,7 @@
 # Razorpay Demo
 
 ## About Razorpay:
-- The Razorpay Flutter SDK allows you to build delightful payment experiences in your native Android and iOS apps using Flutter. Stripe provides powerful and customizable UI screens and elements that can use out-of-the-box to collect your users' payment details.\
+- The Razorpay Flutter SDK allows you to build delightful payment experiences in your native Android and iOS apps using Flutter. Razorpay provides powerful and customizable UI screens and elements that can use out-of-the-box to collect your users' payment details.\
 ⚠️ I tested this application in the test-development environment only & it is working as expected.
 
 To Know more & read the official documentation, visit: https://pub.dev/packages/razorpay_flutter
